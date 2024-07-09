@@ -250,12 +250,12 @@ export const DEFAULT_THEME: DocsThemeConfig = {
     <>
       <meta name="msapplication-TileColor" content="#fff" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the next docs builder" />
+      <meta name="description" content="XNBO: the next docs builder" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@shuding_" />
-      <meta property="og:title" content="Nextra: the next docs builder" />
-      <meta property="og:description" content="Nextra: the next docs builder" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta property="og:title" content="XNBO: the next docs builder" />
+      <meta property="og:description" content="XNBO: the next docs builder" />
+      <meta name="apple-mobile-web-app-title" content="XNBO" />
     </>
   ),
   i18n: [],
