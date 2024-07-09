@@ -42,9 +42,9 @@ const logo = (
 
 const config: DocsThemeConfig = {
   project: {
-    link: 'https://github.com/shuding/nextra'
+    link: 'https://github.com/XINBOSHIN/xnbodocs'
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra/tree/main/docs',
+  docsRepositoryBase: 'https://github.com/XINBOSHIN/xnbodocs/tree/main/docs',
   useNextSeoProps() {
     const { asPath } = useRouter()
     if (asPath !== '/') {
@@ -107,7 +107,7 @@ const config: DocsThemeConfig = {
     text: 'Edit this page on GitHub →'
   },
   feedback: {
-    content: 'Question? Give us feedback →',
+    content: 'Вопросы? Оставьте нам отзыв →',
     labels: 'feedback'
   },
   sidebar: {
@@ -142,7 +142,7 @@ const config: DocsThemeConfig = {
           </a>
         </div>
         <p className="mt-6 text-xs">
-          © {new Date().getFullYear()} The Nextra Project.
+          © {new Date().getFullYear()} The XNBO Project.
         </p>
       </div>
     )
